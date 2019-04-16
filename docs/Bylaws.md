@@ -1,7 +1,7 @@
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-** BYLAWS OF THE CA/BROWSER FORUM**
+**BYLAWS OF THE CA/BROWSER FORUM**
 
 **Version 2.2 - Effective as of , 2019**
 
