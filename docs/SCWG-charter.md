@@ -19,7 +19,7 @@ Upon approval of the CAB Forum by ballot, the Server Certificate Working Group (
 (a) The Working Group shall consist of two classes of voting members, the Certificate Issuers and the Certificate Consumers. The CA Class shall consist of eligible Certificate Issuers and Root Certificate Issuers meeting the following criteria:
 
    1) **Certificate Issuer:** The member organization operates a certification authority that has a publicly-available audit report or attestation statement in accordance with one of the following schemes:
-* “WebTrust for CAs v2.0 or newer” A”; or
+* “WebTrust for CAs v2.0 or newer”; or
 * ETSI EN 319 411-1 or ETSI EN 319 411-2, which includes normative references to ETSI EN 319 401 (the latest version of the referenced ETSI documents should be applied); or
 * If a Government Certificate Issuer is required by its Certificate Policy to use a different internal audit scheme, it MAY use such scheme provided that the audit either (a) encompasses all requirements of one of the above schemes or (b) consists of comparable criteria that are available for public review.
 
@@ -28,7 +28,7 @@ These audit reports must also meet the following requirements:
 * No more than 27 months have elapsed since the beginning of the reported-on period and no more than 15 months since the end of the reported-on period;
 * The audit report was prepared by a properly-Qualified Auditor.
 
-In addition, the member organization actively issues certificates to Web servers that are openly accessible from the Internet, such certificates being treated as valid when using a browser created by a Certificate Consumer Member. Applicants that are not actively issuing certificates but otherwise meet membership criteria may be granted Associate Member status under Bylaw Sec. 3.1 for a period of time to be designated by the CWG.
+In addition, the member organization actively issues certificates to Web servers that are openly accessible from the Internet, such certificates being treated as valid when using a browser created by a Certificate Consumer Member. Applicants that are not actively issuing certificates but otherwise meet membership criteria may be granted Associate Member status under Bylaw Sec. 3.1 for a period of time to be designated by the SCWG.
 
    2) **Root Certificate Issuer:** The member organization operates a certification authority that has a publicly-available audit report or attestation statement that  in accordance with one of the following schemes:
 * “WebTrust for CAs v2.0 or newer”; or
@@ -40,7 +40,7 @@ These audit reports must also meet the following requirements:
 * No more than 27 months have elapsed since the beginning of the reported-on period and no more than 15 months since the end of the reported-on period;
 * The audit report was prepared by a properly-Qualified Auditor.
 
-In addition, the member organization actively issues certificates to Web servers that are openly accessible from the Internet, such certificates being treated as valid when using a browser created by a Certificate Consumer Member. Applicants that are not actively issuing certificates but otherwise meet membership criteria may be granted Associate Member status under Bylaw Sec. 3.1 for a period of time to be designated by the CWG.
+In addition, the member organization actively issues certificates to Web servers that are openly accessible from the Internet, such certificates being treated as valid when using a browser created by a Certificate Consumer Member. Applicants that are not actively issuing certificates but otherwise meet membership criteria may be granted Associate Member status under Bylaw Sec. 3.1 for a period of time to be designated by the SCWG.
 
    3) **A Certificate Consumer** can participate in this Working Group if it produces a software product intended for use by the general public for browsing the Web securely.
 
