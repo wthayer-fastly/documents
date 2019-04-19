@@ -1,6 +1,6 @@
 # Server Certificate Working Group Charter - Version 1.1
 
-Upon approval of the CAB Forum by ballot, the Server Certificate Working Group (“ SCWG”) is created to perform the activities as specified in this Charter, subject to the terms and conditions of the CA/Browser Forum Bylaws and Intellectual Property Rights (IPR) Policy, as such documents may change from time to time. The definitions found in the Forum’s Bylaws shall apply to capitalized terms in this Charter.
+Upon approval of the CAB Forum by ballot, the Server Certificate Working Group (“SCWG”) is created to perform the activities as specified in this Charter, subject to the terms and conditions of the CA/Browser Forum Bylaws and Intellectual Property Rights (IPR) Policy, as such documents may change from time to time. The definitions found in the Forum’s Bylaws shall apply to capitalized terms in this Charter.
 
 **SCOPE:** The authorized scope of the Server Certificate Working Group shall be as follows:
 
@@ -24,8 +24,8 @@ Upon approval of the CAB Forum by ballot, the Server Certificate Working Group (
 * If a Government Certificate Issuer is required by its Certificate Policy to use a different internal audit scheme, it MAY use such scheme provided that the audit either (a) encompasses all requirements of one of the above schemes or (b) consists of comparable criteria that are available for public review.
 
 These audit reports must also meet the following requirements:
-* They must report on the operational effectiveness of controls for a historic period of at least 60 days;
-* No more than 27 months have elapsed since the beginning of the reported-on period and no more than 15 months since the end of the reported-on period;
+* They must report on the operational effectiveness of controls for a historic period of at least sixty (60) days;
+* No more than twenty-seven (27) months have elapsed since the beginning of the reported-on period and no more than fifteen (15) months since the end of the reported-on period;
 * The audit report was prepared by a properly-Qualified Auditor.
 
 In addition, the member organization actively issues certificates to Web servers that are openly accessible from the Internet, such certificates being treated as valid when using a browser created by a Certificate Consumer Member. Applicants that are not actively issuing certificates but otherwise meet membership criteria may be granted Associate Member status under Bylaw Sec. 3.1 for a period of time to be designated by the SCWG.
@@ -36,8 +36,8 @@ In addition, the member organization actively issues certificates to Web servers
 * If the CA is required to use a different audit scheme by any jurisdiction in which the CA operates or issues certificates, it MAY use such scheme provided that the audit scheme criteria are available for public and review and either (a) encompasses all requirements of one of the above schemes or (b) consists of comparable criteria.
 
 These audit reports must also meet the following requirements:
-* They must report on the operational effectiveness of controls for a historic period of at least 60 days;
-* No more than 27 months have elapsed since the beginning of the reported-on period and no more than 15 months since the end of the reported-on period;
+* They must report on the operational effectiveness of controls for a historic period of at least sixty (60) days;
+* No more than twenty-seven (27) months have elapsed since the beginning of the reported-on period and no more than fifteen (15) months since the end of the reported-on period;
 * The audit report was prepared by a properly-Qualified Auditor.
 
 In addition, the member organization actively issues certificates to Web servers that are openly accessible from the Internet, such certificates being treated as valid when using a browser created by a Certificate Consumer Member. Applicants that are not actively issuing certificates but otherwise meet membership criteria may be granted Associate Member status under Bylaw Sec. 3.1 for a period of time to be designated by the SCWG.
@@ -46,22 +46,23 @@ In addition, the member organization actively issues certificates to Web servers
 
 (b) Applicants must supply the following information:
 
-* Confirmation that the applicant satisfies at least one (1) of the membership criteria (and if it satisfies more than one (1), indication of the single category under which the applicant wishes to apply).
-* The organization name, as they wish it to appear on the Forum Web site and in official Forum documents.
+   * Confirmation that the applicant satisfies at least one (1) of the membership criteria (and if it satisfies more than one (1), indication of the single category under which the applicant wishes to apply).
 
-* URL of the applicant's main Web site.
+   * The organization name, as they wish it to appear on the Forum Web site and in official Forum documents.
 
-* Names and email addresses of employees who will participate in the Working Group and Forum as Member representatives.
+   * URL of the applicant's main Web site.
 
-* Emergency contact information for security issues related to certificate trust.
+   * Names and email addresses of employees who will participate in the Working Group and Forum as Member representatives.
+
+   * Emergency contact information for security issues related to certificate trust.
 
 Applicants that qualify as Certificate Issuers or Root Certificate Issuers must supply the following additional information:
 
-* URL of the current qualifying audit report.
+   * URL of the current qualifying audit report.
 
-* The URL of at least one third party website that includes a certificate issued by the Applicant in the certificate chain.
+   * The URL of at least one third party website that includes a certificate issued by the Applicant in the certificate chain.
 
-* Links or references to issued end-entity certificates that demonstrate them being treated as valid by a Certificate Consumer Member.
+   * Links or references to issued end-entity certificates that demonstrate them being treated as valid by a Certificate Consumer Member.
 
 (c) An Applicant shall become a Member once the Server Certificate Working Group has determined by consensus among the Members during a Meeting or Teleconference that the Applicant meets all of the requirements of subsection (a) or, upon the request of any Member, by a Ballot among the Members. Acceptance by consensus shall be determined or a Ballot of the Members shall be held as soon as the Applicant indicates that it has presented all information required and has responded to all follow-up questions from the SCWG and the Member has complied with the requirements of Section 5.5 of the CA/Browser Forum Bylaws.
 
@@ -71,19 +72,19 @@ The Working Group shall include Interested Parties and Associate Members as defi
 
    1) **Certificate Consumer:** A Certificate Consumer Member's membership will automatically cease if any of the following become true:
    
-* it stops providing updates for its membership-qualifying software product; and 
+   * it stops providing updates for its membership-qualifying software product; and 
    
-* six (6) months have elapsed since the last such published update.
+   * six (6) months have elapsed since the last such published update.
 
    2) **Certificate Issuer or Root Certificate Issuer:** A Certificate or Root Certificate Issuer Member's membership may be suspended if any of the following become true:
    
-* it fails to perform and disclose its membership-qualifying audit and fifteen (15) months have elapsed since the end of the audit period of its last successful membership-qualifying audit; or
+   * it fails to perform and disclose its membership-qualifying audit and fifteen (15) months have elapsed since the end of the audit period of its last successful membership-qualifying audit; or
    
-* its membership-qualifying audit is revoked, rescinded or withdrawn; or
+   * its membership-qualifying audit is revoked, rescinded or withdrawn; or
    
-* fifteen (15) months have elapsed since the end of the audit period of its last membership-qualifying audit; or
+   * fifteen (15) months have elapsed since the end of the audit period of its last membership-qualifying audit; or
    
-* it is no longer the case that its currently-issued certificates are treated as valid by at  least one (1) Certificate Consumer Member of the Server Certificate Working Group.
+   * it is no longer the case that its currently-issued certificates are treated as valid by at  least one (1) Certificate Consumer Member of the Server Certificate Working Group.
 
 Any Member who believes any of the above circumstances is true of any other Member, that Member may report it on the SCWG Public Mail List. The Chair will then investigate, including asking the reported Member for an explanation or appropriate documentation. If evidence of continued qualification for membership is not forthcoming from the reported Member within five (5) working days, the Chair will announce that such Member is suspended, such announcement to include the clause(s) from the above list under which the suspension has been made.
 
