@@ -304,7 +304,8 @@ All Members shall abide by the CAB Forum Code of Conduct, which is attached to t
 **Forum Teleconferences:** Teleconference plenary meetings of Members as scheduled from time to time, and does not include meetings such as Subcommittee, subgroup, committee, or PAG meetings.
 
 **Qualified Auditor:** A natural person or Legal Entity that meets the requirements of Section 8.2 of the Baseline Requirements (https://cabforum.org/baseline-requirements-documents/).
-Member: A Member of the Forum or a representative of the Member (depending on context).
+
+**Member:** A Member of the Forum or a representative of the Member (depending on context).
 
 **Member Mail List:** The email list-serv maintained by the Forum or CWG for communications by and among Forum or CWG Members and Associate Members. The Member Mail List is not available to Interested Parties or Other Parties.
 
