@@ -58,6 +58,7 @@ Categories of Forum Membership are defined as follows:
 
 * Interested Party: As defined in section 3.2
 
+Members that qualify under more than one category of Forum Membership MAY choose their membership category.
 
 ## 2.2 Ending Forum Membership
 
