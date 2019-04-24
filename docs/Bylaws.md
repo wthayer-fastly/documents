@@ -44,7 +44,20 @@ An antitrust compliance statement shall be read at the start of all Forum Meetin
 
 ## 2.1 Qualifying for Forum Membership
 
-CWG Members Associate Members and Interested Parties are automatically granted Forum Membership.
+CWG Members are automatically granted Forum Membership.
+
+Categories of Forum Membership are defined as follows:
+
+* Certificate Issuer: The member organization operates a certification authority that meets the requirements for membership as a Certificate Issuer in one or more CWGs.
+
+* Root Certificate Issuer: The member organization operates a certification authority that meets the requirements for membership as a Root Certificate Issuer in one or more CWGs.
+
+* Certificate Consumer: The member organization meets the requirements for membership as a Certificate Consumer in one or more CWGs.
+
+* Associate Member: As defined in section 3.1
+
+* Interested Party: As defined in section 3.2
+
 
 ## 2.2 Ending Forum Membership
 
