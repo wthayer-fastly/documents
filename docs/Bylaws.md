@@ -30,15 +30,15 @@ An antitrust compliance statement shall be read at the start of all Forum Meetin
 
 “As you know, this meeting includes companies that compete against one another. This meeting is intended to discuss technical standards related to the provision of existing and new types of digital certificates without restricting competition in developing and marketing such certificates. This meeting is not intended to share competitively-sensitive information among competitors, and therefore all participants agree not to discuss or exchange information related to:
 
-    (a) Pricing policies, pricing formulas, prices or other terms of sale;
+ 1. Pricing policies, pricing formulas, prices or other terms of sale;
     
-    (b) Costs, cost structures, profit margins,
+ 2. Costs, cost structures, profit margins,
     
-    (c) Pending or planned service offerings,
+ 3. Pending or planned service offerings,
     
-    (d) Customers, business, or marketing plans; or
+ 4. Customers, business, or marketing plans; or
     
-    (e) The allocation of customers, territories, or products in any way."
+ 5. The allocation of customers, territories, or products in any way."
 
 # 2. FORUM MEMBERSHIP AND VOTING
 
@@ -52,55 +52,53 @@ When a Forum Member ceases to be a Member of at least one CWG, their Forum Membe
 
 ## 2.3 General Provisions Applicable to All Ballots
 
-The following rules will apply to all ballots, including Draft Guideline Ballots (defined in Section 2.4).
+The following rules will apply to all ballots, including Draft Guideline Ballots (defined in 2.4).
 
-    (a) Only votes by Members shall be accepted.
+ 1. Only votes by Members shall be accepted.
   
-    (b) Only one vote per Member company shall be accepted; Affiliates of Members shall not vote.
+ 2. Only one vote per Member company shall be accepted; Affiliates of Members shall not vote.
   
-    (c) A representative of any Member can call for a proposed ballot to be published for discussion and comment by the membership. Any proposed ballot needs two endorsements by other Members in order to proceed. The discussion period then shall take place for at least seven (7) calendar days before votes are cast. At any time, a new version of the ballot (marked with a distinguishing version number) may be posted by the proposer in the same manner as the original. Once no new version of the ballot has been posted for seven (7) calendar days, the proposer may end the discussion period and start the voting period by reposting the final version of the ballot and clearly indicating that voting is to begin, along with the start and end dates and times (including time zone) for the voting period. The ballot automatically fails if twenty one (21) calendar days elapse since the proposer last posted a version of the ballot and the voting period has not been started.
+ 3. A representative of any Member can call for a proposed ballot to be published for discussion and comment by the membership. Any proposed ballot needs two endorsements by other Members in order to proceed. The discussion period then shall take place for at least seven (7) calendar days before votes are cast. At any time, a new version of the ballot (marked with a distinguishing version number) may be posted by the proposer in the same manner as the original. Once no new version of the ballot has been posted for seven (7) calendar days, the proposer may end the discussion period and start the voting period by reposting the final version of the ballot and clearly indicating that voting is to begin, along with the start and end dates and times (including time zone) for the voting period. The ballot automatically fails if twenty one (21) calendar days elapse since the proposer last posted a version of the ballot and the voting period has not been started.
   
-    (d) Upon commencement of the voting period, Members shall have exactly seven (7) calendar days for voting on the proposed ballot, with the deadline clearly communicated in the ballot and sent via a Public Mail List. For ballots related to the Forum level, votes must be sent to the Public Mail List of the Forum. For ballots related to a CWG, votes must be sent to the Public Mail List of the CWG. All voting will take place via a Public Mail List. Votes not submitted to the proper Public Mail List by the end of the voting period (as specified in the ballot) will not be considered valid, and will not be counted for any purpose. Each Member, and not the Forum or CWG, will be responsible for taking precautions to make sure such Member’s vote is submitted properly and counted. In the event that a Member’s vote on a ballot is not submitted properly, such vote shall not be valid and shall not be counted for any purpose, and there shall be no appeal, revote (except in the case of a new ballot submitted to all Members) or other recourse.
+ 4. Upon commencement of the voting period, Members shall have exactly seven (7) calendar days for voting on the proposed ballot, with the deadline clearly communicated in the ballot and sent via a Public Mail List. For ballots related to the Forum level, votes must be sent to the Public Mail List of the Forum. For ballots related to a CWG, votes must be sent to the Public Mail List of the CWG. All voting will take place via a Public Mail List. Votes not submitted to the proper Public Mail List by the end of the voting period (as specified in the ballot) will not be considered valid, and will not be counted for any purpose. Each Member, and not the Forum or CWG, will be responsible for taking precautions to make sure such Member’s vote is submitted properly and counted. In the event that a Member’s vote on a ballot is not submitted properly, such vote shall not be valid and shall not be counted for any purpose, and there shall be no appeal, revote (except in the case of a new ballot submitted to all Members) or other recourse.
 
-    (e) Members may vote “yes”, “no”, or “abstain” on a ballot. Only votes that indicate a clear “yes” or “no” response to the ballot question shall be considered (i.e. votes to “abstain” and votes that do not indicate a clear “yes” or “no” response will not figure in the calculation of item (f), below).
+ 5. Members may vote “yes”, “no”, or “abstain” on a ballot. Only votes that indicate a clear “yes” or “no” response to the ballot question shall be considered (i.e. votes to “abstain” and votes that do not indicate a clear “yes” or “no” response will not figure in the calculation of item (f), below).
 
-    (f) Members fall into two categories: Certificate Issuers (including Certificate Issuers and Root Certificate Issuers), as defined in Section 2.1(a)(1) and (2) and Certificate Consumers (as defined in Section 2.1(a)(3)). In order for a ballot to be adopted by the Forum, two-thirds (2/3) or more of the votes cast by the Members in the Certificate Issuer category must be in favor of the ballot, and at least fifty percent (50%) plus one (1) of the votes cast by the Members in the Certificate Consumer category must be in favor of the ballot. At least one (1) Member in each category must vote in favor of a ballot for the ballot to be adopted.
+ 6. Members fall into two categories: Certificate Issuers (including Certificate Issuers and Root Certificate Issuers), and (2) and Certificate Consumers. In order for a ballot to be adopted by the Forum, two-thirds (2/3) or more of the votes cast by the Members in the Certificate Issuer category must be in favor of the ballot, and at least fifty percent (50%) plus one (1) of the votes cast by the Members in the Certificate Consumer category must be in favor of the ballot. At least one (1) Member in each category must vote in favor of a ballot for the ballot to be adopted.
 
-    (g) A ballot result will be considered valid only when more than half of the number of currently active Members has participated. The number of currently active Members is the average number of Member organizations that have participated in the previous three (3) Forum Meetings and Forum Teleconferences.
+ 7. A ballot result will be considered valid only when more than half of the number of currently active Members has participated. The number of currently active Members is the average number of Member organizations that have participated in the previous three (3) Forum Meetings and Forum Teleconferences.
+ 8. The Chair will tabulate and announce the results within three (3) business days of the close of the voting period.
 
-    (h) The Chair will tabulate and announce the results within three (3) business days of the close of the voting period.
-
-    (i) The Chair may delegate any of his/her duties under this Section 2.3 and Section 2.4 to the Vice Chair as necessary, or the Vice Chair may otherwise execute the duties and obligations of the Chair as provided in Section 4.1(a) of these Bylaws.
+ 9. The Chair may delegate any of his/her duties under this Section 2.3 and Section 2.4 to the Vice Chair as necessary, or the Vice Chair may otherwise execute the duties and obligations of the Chair as provided in Section 4.1(1) of these Bylaws.
 
 ## 2.4 Requirements for Draft Guideline Ballots
 
 This section applies to any ballot that proposes a Final Guideline or a Final Maintenance Guideline (a “Draft Guideline Ballot”), all as defined under the Forum’s IPR Policy. Draft Guideline Ballots must comply with the following rules in addition to the requirements set forth in Section 2.3 above.
 
-    (a) A Draft Guideline Ballot will clearly indicate whether it is proposing a Final Guideline or a Final Maintenance Guideline. If the Draft Guideline Ballot is proposing a Final Guideline, such ballot will include the full text of the Draft Guideline intended to become a Final Guideline. If the Draft Guideline Ballot is proposing a Final Maintenance Guideline, such ballot will include a redline or comparison showing the set of changes from the Final Guideline section(s) intended to become a Final Maintenance Guideline, and need not include a copy of the full set of guidelines or text describing the proposed changes. Such redline or comparison shall be made against the Final Guideline section(s) as they exist at the time a ballot is proposed, and need not take into consideration other ballots that may be proposed subsequently, except as provided in Section 2.4(j) below. In the event there is a conflict between the text of a Final Guideline or Final Maintenance Guideline included in a Draft Guideline Ballot (the “Ballot Version”), and the text in the redline/comparison copy of the Final Guideline or Final Maintenance Guideline attached to the Draft Guideline Ballot (the “Redline Version”), the Ballot Version shall in all cases take precedence over the redline version. If present, the Ballot Version shall be the official text used for implementation should the Draft Guideline Ballot pass. If a discrepancy between the redline version and the Ballot version is discovered during the Draft Guideline Ballot discussion or voting periods, a corrected copy of the redline version shall be submitted to the Public Mail List for reference; this corrected Redline Version shall not affect the Draft Guideline Ballot text, the discussion period, or the voting period.
+ 1. A Draft Guideline Ballot will clearly indicate whether it is proposing a Final Guideline or a Final Maintenance Guideline. If the Draft Guideline Ballot is proposing a Final Guideline, such ballot will include the full text of the Draft Guideline intended to become a Final Guideline. If the Draft Guideline Ballot is proposing a Final Maintenance Guideline, such ballot will include a redline or comparison showing the set of changes from the Final Guideline section(s) intended to become a Final Maintenance Guideline, and need not include a copy of the full set of guidelines or text describing the proposed changes. Such redline or comparison shall be made against the Final Guideline section(s) as they exist at the time a ballot is proposed, and need not take into consideration other ballots that may be proposed subsequently, except as provided in Section 2.4(10) below. In the event there is a conflict between the text of a Final Guideline or Final Maintenance Guideline included in a Draft Guideline Ballot (the “Ballot Version”), and the text in the redline/comparison copy of the Final Guideline or Final Maintenance Guideline attached to the Draft Guideline Ballot (the “Redline Version”), the Ballot Version shall in all cases take precedence over the redline version. If present, the Ballot Version shall be the official text used for implementation should the Draft Guideline Ballot pass. If a discrepancy between the redline version and the Ballot version is discovered during the Draft Guideline Ballot discussion or voting periods, a corrected copy of the redline version shall be submitted to the Public Mail List for reference; this corrected Redline Version shall not affect the Draft Guideline Ballot text, the discussion period, or the voting period.
 
-    (b) As described in Section 2.3(c), there will be a discussion period of at least seven (7) days before votes are cast on a Draft Guideline Ballot, with the start date of such discussion period clearly specified in the ballot. The discussion period shall end and the voting period shall commence also according to the procedure specified in Section 2.3(c).
+ 2. As described in Section 2.3(3), there will be a discussion period of at least seven (7) days before votes are cast on a Draft Guideline Ballot, with the start date of such discussion period clearly specified in the ballot. The discussion period shall end and the voting period shall commence also according to the procedure specified in Section 2.3(3).
 
-    (c) As described in Section 2.3(d), upon commencement of the voting period, Members shall have exactly seven (7) calendar days to vote on a Draft Guideline Ballot, with the deadline clearly communicated in the ballot sent via a Public Mail List. For ballots related to the Forum level, votes must be sent to the Public Mail List of the Forum. For ballots related to a CWG, votes must be sent to the Public Mail List of the CWG. All voting will take place via the proper Public Mail List. Votes not submitted to the Public Mail List will not be considered valid, and will not be counted for any purpose. The Chair may send an email to a Public Mail List reminding Members of when the voting period opens and closes.
+ 3. As described in Section 2.3(4), upon commencement of the voting period, Members shall have exactly seven (7) calendar days to vote on a Draft Guideline Ballot, with the deadline clearly communicated in the ballot sent via a Public Mail List. For ballots related to the Forum level, votes must be sent to the Public Mail List of the Forum. For ballots related to a CWG, votes must be sent to the Public Mail List of the CWG. All voting will take place via the proper Public Mail List. Votes not submitted to the Public Mail List will not be considered valid, and will not be counted for any purpose. The Chair may send an email to a Public Mail List reminding Members of when the voting period opens and closes.
 
-    (d) The Forum (via the Chair) will tabulate and announce the results within three (3) business days of the close of the initial voting period (the “Initial Vote”). If the Draft Guidelines Ballot does not pass the Initial Vote, the ballot fails.
+ 4. The Forum (via the Chair) will tabulate and announce the results within three (3) business days of the close of the initial voting period (the “Initial Vote”). If the Draft Guidelines Ballot does not pass the Initial Vote, the ballot fails.
 
-    (e) If a Draft Guideline Ballot passes the Initial Vote, the Chair shall initiate, no later than the third (3rd) business day after the announcement of the Initial Vote results, the Review Period of thirty (30) or sixty (60) days, as applicable and as described in Section 4.1 of the IPR Policy. The Chair will initiate the Review Period by sending the Review Notice to both the Member Mail List and the Public Mail List. The Review Notice will clearly specify the open and close dates and times (with time zone) of the Review Period. If the Chair does not initiate the Review Period within five (5) business days after the announcement of the Initial Vote results, the Vice Chair must initiate the Review Period, using the same process as the Chair would have been required to use.
+ 5. If a Draft Guideline Ballot passes the Initial Vote, the Chair shall initiate, no later than the third (3rd) business day after the announcement of the Initial Vote results, the Review Period of thirty (30) or sixty (60) days, as applicable and as described in Section 4.1 of the IPR Policy. The Chair will initiate the Review Period by sending the Review Notice to both the Member Mail List and the Public Mail List. The Review Notice will clearly specify the open and close dates and times (with time zone) of the Review Period. If the Chair does not initiate the Review Period within five (5) business days after the announcement of the Initial Vote results, the Vice Chair must initiate the Review Period, using the same process as the Chair would have been required to use.
+ 6. The Review Period will continue to the end of the thirty (30) or sixty (60) day period, as applicable, regardless of the number of Exclusion Notices filed pursuant to the IPR Policy during such period, if any. No later than three (3) business days after the conclusion of the applicable Review Period, the Chair will distribute any Exclusion Notices submitted in accordance with Section 4.1 (Review of Draft Specifications) of the IPR Policy via the Public Mail List; provided, however, that the Chair may distribute such Exclusion Notices earlier.
 
-    (f) The Review Period will continue to the end of the thirty (30) or sixty (60) day period, as applicable, regardless of the number of Exclusion Notices filed pursuant to the IPR Policy during such period, if any. No later than three (3) business days after the conclusion of the applicable Review Period, the Chair will distribute any Exclusion Notices submitted in accordance with Section 4.1 (Review of Draft Specifications) of the IPR Policy via the Public Mail List; provided, however, that the Chair may distribute such Exclusion Notices earlier.
+ 7. In addition to following the process for submitting Exclusion Notices set forth in Section 4 of the IPR Policy, Members shall also send Exclusion Notices to the Public Mail List as a safeguard.
 
-    (g) In addition to following the process for submitting Exclusion Notices set forth in Section 4 of the IPR Policy, Members shall also send Exclusion Notices to the Public Mail List as a safeguard.
+ 8. If no Exclusion Notices are filed during the Review Period with respect to a Draft Guideline Ballot, then the results of the Initial Vote are automatically deemed to be final and approved,  and Draft Guidelines then become either Final Guidelines or Final Maintenance Guidelines, as designated in the Draft Guidelines Ballot. The Chair will notify both the Member Mail List and the Public Mail List of the final approval within three (3) business days, as well as update the Public Website of Final Guidelines and Final Maintenance Guidelines within ten (10) business days of the close of the Review Period.
 
-    (h) If no Exclusion Notices are filed during the Review Period with respect to a Draft Guideline Ballot, then the results of the Initial Vote are automatically deemed to be final and approved,  and Draft Guidelines then become either Final Guidelines or Final Maintenance Guidelines, as designated in the Draft Guidelines Ballot. The Chair will notify both the Member Mail List and the Public Mail List of the final approval within three (3) business days, as well as update the Public Website of Final Guidelines and Final Maintenance Guidelines within ten (10) business days of the close of the Review Period.
+ 9. If Exclusion Notice(s) are filed during the Review Period (as described in Section 4.3 of the IPR Policy), then the results of the Initial Vote are automatically rescinded and deemed null and void, and;
 
-    (i) If Exclusion Notice(s) are filed during the Review Period (as described in Section 4.3 of the IPR Policy), then the results of the Initial Vote are automatically rescinded and deemed null and void, and;
+    a. A Patent Advisory Group (PAG) will be formed, in accordance with Section 7 of the IPR Policy, to address the conflict. The PAG will make a conclusion as described in Section 7.3.2 of the IPR Policy, and communicate such conclusion to the rest of the Forum, using the Member Mail List and the Public Mail List; and
 
-        i. A Patent Advisory Group (PAG) will be formed, in accordance with Section 7 of the IPR Policy, to address the conflict. The PAG will make a conclusion as described in Section 7.3.2 of the IPR Policy, and communicate such conclusion to the rest of the Forum, using the Member Mail List and the Public Mail List; and
+    b. After the PAG provides its conclusion, if the proposer and endorsers decide to proceed with the Draft Guidelines Ballot, and:
+       1. The proposer and endorsers do not make any changes to the Draft Guidelines Ballot, such ballot must go through the steps described in Sections 2.4(2) through (4) above, replacing the “Initial Vote” with a “Second Vote.” If a Draft Guidelines Ballot passes the Second Vote, then the results of the Second Vote are deemed to be final and approved. Draft Guidelines then become either Final Guidelines or Final Maintenance Guidelines, as designated in the Draft Guidelines Ballot. The Chair will notify both the Member Mail List and the Public Mail List of the approval, as well as update the public website of Final Guidelines and Final Maintenance Guidelines; or
+       2. The proposer and endorsers make changes to the Draft Guidelines Ballot, a new Draft Guidelines Ballot must be proposed, and must go through the steps described in Sections 2.3(1) through (9) above.
 
-        ii. After the PAG provides its conclusion, if the proposer and endorsers decide to proceed with the Draft Guidelines Ballot, and:
-             (A) The proposer and endorsers do not make any changes to the Draft Guidelines Ballot, such ballot must go through the steps described in Sections 2.4(b) through (d) above, replacing the “Initial Vote” with a “Second Vote.” If a Draft Guidelines Ballot passes the Second Vote, then the results of the Second Vote are deemed to be final and approved. Draft Guidelines then become either Final Guidelines or Final Maintenance Guidelines, as designated in the Draft Guidelines Ballot. The Chair will notify both the Member Mail List and the Public Mail List of the approval, as well as update the public website of Final Guidelines and Final Maintenance Guidelines; or
-             (B) The proposer and endorsers make changes to the Draft Guidelines Ballot, a new Draft Guidelines Ballot must be proposed, and must go through the steps described in Sections 2.3(a) through (i) above.
-
-    (j) If a ballot is proposed to amend the same section of the Final Guidelines or the Final Maintenance Guidelines as one or more previous ballot(s) that has/have not yet been finally approved, the newly proposed ballot must include information about, and a link to, any such previous ballot(s), and may include provisions to avoid any conflicts relating to such previous ballots.
+ 10. If a ballot is proposed to amend the same section of the Final Guidelines or the Final Maintenance Guidelines as one or more previous ballot(s) that has/have not yet been finally approved, the newly proposed ballot must include information about, and a link to, any such previous ballot(s), and may include provisions to avoid any conflicts relating to such previous ballots.
 
 # 3. OTHER FORUM PARTICIPATION
 
@@ -114,11 +112,10 @@ Any person or entity that wishes to participate in the Forum as an Interested Pa
 
 Interested Parties may participate in Forum activities in the following ways:
 
-    (a) By becoming involved in CWGs,
+ 1. By becoming involved in CWGs,
 
-    (b) By posting to the Public Mail List, and
-
-    (c) By participating in those portions of Forum Teleconferences and Forum Meetings to which they are invited by the Forum or CWG Chair relating to their areas of special expertise or the subject of their CWG participation.
+ 2. By posting to the Public Mail List, and
+ 3. By participating in those portions of Forum Teleconferences and Forum Meetings to which they are invited by the Forum or CWG Chair relating to their areas of special expertise or the subject of their CWG participation.
 
 Interested Parties are required to comply with the provisions of the IPR Policy Agreement and these Bylaws. Interested Parties may lose their status as Interested Parties by vote of the Members, in the Members’ sole discretion.
 
@@ -134,16 +131,15 @@ The public may follow the Forum’s activities by reading all postings on the Pu
 
 ## 4.1 Officers
 
-    (a) Term of office: The Forum will elect a Chair and Vice Chair, each to serve for a term of two (2) years. The Vice Chair has the authority of the Chair in the event of any absence or unavailability of the Chair, and in such circumstances, any duty delegated to the Chair herein may be performed by the Vice Chair. For example, the Vice Chair will preside at Forum Meetings and Forum Teleconferences in the Chair’s absence. The offices of Chair and Vice Chair may only be filled by Forum Member representatives.
+ 1. Term of office: The Forum will elect a Chair and Vice Chair, each to serve for a term of two (2) years. The Vice Chair has the authority of the Chair in the event of any absence or unavailability of the Chair, and in such circumstances, any duty delegated to the Chair herein may be performed by the Vice Chair. For example, the Vice Chair will preside at Forum Meetings and Forum Teleconferences in the Chair’s absence. The offices of Chair and Vice Chair may only be filled by Forum Member representatives.
     No person may serve as Chair for more than a two-year period or be elected to Vice Chair upon expiration or termination of the person’s service as Chair, but a person is eligible to be elected as Chair again after having vacated the position as Chair for at least two (2) years.
+ 2. Manner of conducting nominations: At least sixty (60) days prior to the expiration of the current Chair’s term or upon his/her early termination as Chair, the Chair or Vice Chair will announce through the management mailing list that nominations are open for the office of Chair and the Vice Chair will automatically be nominated as the next Chair, but Forum Members may nominate themselves or others to be additional candidates as Chair. A Vice Chair may decline the nomination to the office of Chair and/or indicate an intent to seek nomination for re-election to the office of Vice Chair. The nomination period for Chair will last for at least one (1) week but no longer than four (4) weeks. Upon the close of the nominations for Chair, the nomination period for the office of Vice Chair shall immediately open. The nomination period for Vice Chair will last for at least one (1) week but no longer than four (4) weeks.
 
-    (b) Manner of conducting nominations: At least sixty (60) days prior to the expiration of the current Chair’s term or upon his/her early termination as Chair, the Chair or Vice Chair will announce through the management mailing list that nominations are open for the office of Chair and the Vice Chair will automatically be nominated as the next Chair, but Forum Members may nominate themselves or others to be additional candidates as Chair. A Vice Chair may decline the nomination to the office of Chair and/or indicate an intent to seek nomination for re-election to the office of Vice Chair. The nomination period for Chair will last for at least one (1) week but no longer than four (4) weeks. Upon the close of the nominations for Chair, the nomination period for the office of Vice Chair shall immediately open. The nomination period for Vice Chair will last for at least one (1) week but no longer than four (4) weeks.
-
-    (c) Manner of holding officer elections: If a single individual is nominated for a position, the Forum will hold a ballot prepared and submitted by the Chair, with the exception of not requiring endorsers, to confirm appointment of the nominee. For the confirmation ballot, each Member is entitled to a single vote regardless of the number of participating Member representatives or whether the Member is categorized as a Certificate (or Root Certificate) Issuer or a Certificate Consumer. If multiple votes are received from a Member’s representatives, the last vote submitted during the voting period is considered the Member’s vote. The single nominee is considered confirmed if a majority of the Members who vote are in favor of the appointment, regardless of the number of votes cast and irrespective of whether 2/3 of the Certificate (or Root Certificate) Issuers or 1/2 of the Certificate Consumers approve appointment of the nominee.
+ 3. Manner of holding officer elections: If a single individual is nominated for a position, the Forum will hold a ballot prepared and submitted by the Chair, with the exception of not requiring endorsers, to confirm appointment of the nominee. For the confirmation ballot, each Member is entitled to a single vote regardless of the number of participating Member representatives or whether the Member is categorized as a Certificate (or Root Certificate) Issuer or a Certificate Consumer. If multiple votes are received from a Member’s representatives, the last vote submitted during the voting period is considered the Member’s vote. The single nominee is considered confirmed if a majority of the Members who vote are in favor of the appointment, regardless of the number of votes cast and irrespective of whether 2/3 of the Certificate (or Root Certificate) Issuers or 1/2 of the Certificate Consumers approve appointment of the nominee.
     If more than one candidate is nominated for Chair or Vice Chair, the Chair will submit an election ballot, with the exception of not requiring endorsers, to determine which candidate will fill the position. Within two (2) weeks after the close of the nomination period, the Chair or Vice Chair will establish an election committee and announce the election ballot on the management mailing list along with the ballot start date, ballot end date, and a description of the voting process. The Chair or Vice Chair will appoint the election committee by selecting at least two (2) volunteers who have a reputation for independence, preferably individuals without voting rights in the Forum and that participate as Associate Members. The election committee is responsible solely for tallying Member votes in connection with the election ballot. The description must include the email address(es) where Members will send their vote, which should be the email addresses of the election committee.
     For election ballots, each Member is entitled to a single vote regardless of the number of participating Member representatives or whether the Member is categorized as a Certificate (or Root Certificate) Issuer or a Certificate Consumer. If multiple votes are received from a Member’s representatives, the last vote submitted during the voting period is considered the Member’s vote. Within two (2) weeks after the election ballot closes, the election committee will compile the votes, ensure that only one (1) vote is counted per Member, confirm the results with other members of the election committee, and publish the ballot results by sending an email to the Public Mail List. The election committee will not include any votes submitted before or after the voting period when compiling the votes. The ballot results email will contain only the following information: a short description of the ballot purpose, the total number of votes submitted during the ballot period, and the name of the nominee receiving the most votes. The election committee may include other language as necessary to accurately describe the ballot and any concerns the election committee had with the ballot, provided that such language does not disclose how individual Members voted. The election committee will treat the votes of individual Members as confidential information. The nominee receiving the most votes is appointed to the applicable position, regardless of the number of votes cast and irrespective of whether two thirds (2/3) of the Certificate (or Root Certificate) Issuers or fifty percent (50%) of the Certificate Consumers voted for the nominee. If the election ballot results in a tie among the candidates receiving the most votes, the Chair or Vice Chair will call for another election ballot that includes only the two tying candidates.
 
-    (d) Duties: The Chair and Vice Chair shall exercise their functions in a fair and neutral manner, allowing all Members equal treatment for their comments and proposals, and shall not favor one side over another in any matter (except that the Chair and Vice Chair may indicate their own position during discussion and voting on the matter). The Chair and Vice Chair shall have no personal liability for any activities of the Forum or its Members or Interested Parties.<br>
+ 4. Duties: The Chair and Vice Chair shall exercise their functions in a fair and neutral manner, allowing all Members equal treatment for their comments and proposals, and shall not favor one side over another in any matter (except that the Chair and Vice Chair may indicate their own position during discussion and voting on the matter). The Chair and Vice Chair shall have no personal liability for any activities of the Forum or its Members or Interested Parties.<br>
     The Chair or the Vice Chair may sign correspondence, applications, forms, Letters of Intent, and Memoranda of Understanding relating to projects with standards bodies, industry groups, and other third parties, but shall have no personal liability therefor.
 
 ## 4.2 Finances
@@ -160,16 +156,16 @@ Interested Parties will not be required to pay anything for their participation 
 
 The Forum shall maintain a Member Mail List and Member Web Site that are not accessible by the public. The following matters may be posted to the Member Mail List and Member Web Site:
 
-    (a) Draft minutes of Forum meetings (both virtual and in-person, and including any sub-groups or committees) will be posted to the Member Mail List to allow Members to make sure they are being correctly reported.
+ 1. Draft minutes of Forum meetings (both virtual and in-person, and including any sub-groups or committees) will be posted to the Member Mail List to allow Members to make sure they are being correctly reported.
     Minutes will be considered final when approved at a subsequent Forum Meeting or Forum Teleconference; provided, however, that if there is no Forum Meeting or Forum Teleconference scheduled within three (3) weeks of the publication of the draft minutes. Final minutes will then be posted to the Public Mail List and Public Web Site. The Chair will, upon request, make redactions of any part of the public copy of the minutes identified as private or sensitive by either the information discloser or a member mentioned or affiliated with the subject of the information.
 
-    (b) Nominations for officer positions, Forum Meeting and Forum Teleconference scheduling issues, and discussion of Forum financial issues.
+ 2. Nominations for officer positions, Forum Meeting and Forum Teleconference scheduling issues, and discussion of Forum financial issues.
 
-    (c) Security incidents if, in the opinion of the Members, discussion on the Public Mail List could reasonably be detrimental to the implementation of security measures by Members.
+ 3. Security incidents if, in the opinion of the Members, discussion on the Public Mail List could reasonably be detrimental to the implementation of security measures by Members.
 
-    (d) Proposed responses to questions sent to the Questions Mail List.
+ 4. Proposed responses to questions sent to the Questions Mail List.
 
-    (e) Matters which, in the opinion of the Members, require confidentiality.
+ 5. Matters which, in the opinion of the Members, require confidentiality.
 
 Members have discretion about which mailing list they use, but are strongly encouraged to use the Public Mail List for matters other than those listed above.
 
@@ -185,15 +181,15 @@ The Forum Chair shall appoint a Webmaster. The Webmaster shall post instructions
 
 The following materials shall be posted to the Forum Public Mail List or Public Web Site:
 
-    (a) Draft and final agendas for CWG meetings, Forum Meetings and Forum Teleconferences (including any sub-groups or committees).
+ 1. Draft and final agendas for CWG meetings, Forum Meetings and Forum Teleconferences (including any sub-groups or committees).
 
-    (b) Final minutes of Forum Meetings and Forum Teleconferences (including minutes of any sub- groups or committees).
+ 2. Final minutes of Forum Meetings and Forum Teleconferences (including minutes of any sub- groups or committees).
 
-    (c) Messages formally proposing a Forum ballot (including ballots to establish, extend, modify, or terminate CWGs), individual votes, vote and quorum counts, and messages announcing ballot outcomes and voting breakdowns.
+ 3. Messages formally proposing a Forum ballot (including ballots to establish, extend, modify, or terminate CWGs), individual votes, vote and quorum counts, and messages announcing ballot outcomes and voting breakdowns.
 
-    (d) Initial and final drafts of Forum requirements, guidelines, and recommendations after the drafter has had an opportunity to receive and respond to initial Member comments.
+ 4. Initial and final drafts of Forum requirements, guidelines, and recommendations after the drafter has had an opportunity to receive and respond to initial Member comments.
 
-    (e) Initial and final drafts of CWG charter documents, guidelines, and recommendations after the drafter has had an opportunity to receive and respond to initial Working Group member comments.
+ 5. Initial and final drafts of CWG charter documents, guidelines, and recommendations after the drafter has had an opportunity to receive and respond to initial Working Group member comments.
 
 These activities should be followed by any Chartered Working Group. Working Groups must maintain a separate Public Mail List. Working Groups may use the Forum Public Web Site but they must maintain a separate section designated for material related to the specific Working Group.
 
@@ -201,52 +197,51 @@ These activities should be followed by any Chartered Working Group. Working Grou
 
 ### 5.3.1 Formation of Chartered Working Groups
 
-(a) Members who desire to form a new “Chartered” Working Group (CWG) shall propose a charter by ballot pursuant to Section 2.3 above. A CWG shall:
-  * Include Certificate (or Root Certificate) Issuer participants or Certificate Consumer participants, and should typically include both.
-  * Allow for the participation of Interested Parties and Associate Members.
+ 1. Members who desire to form a new “Chartered” Working Group (CWG) shall propose a charter by ballot pursuant to Section 2.3 above. A CWG shall:
+    * Include Certificate (or Root Certificate) Issuer participants or Certificate Consumer participants, and should typically include both.
+    * Allow for the participation of Interested Parties and Associate Members.
    
     Criteria for each category of membership in a CWG shall be clearly defined, and should consider:
     
-  * Audit requirements, including acceptable audit schemes, duration and age of the report, and auditor qualifications.
+    * Audit requirements, including acceptable audit schemes, duration and age of the report, and auditor qualifications.
     
-  * Requirements for the Applicant to be actively issuing certificates or creating a software product that relies upon certificates
+    * Requirements for the Applicant to be actively issuing certificates or creating a software product that relies upon certificates
     
-  * Requirements that certificates are treated as valid by a CWG Certificate Consumer, or for the software produced by the Certificate Consumer to be intended for use by the general public
+    * Requirements that certificates are treated as valid by a CWG Certificate Consumer, or for the software produced by the Certificate Consumer to be intended for use by the general public
+ 2. The charter shall outline the scope of the CWG’s activities and other important information. A template for Working Group charters is attached to these Bylaws as Exhibit C. A Working Group may deviate from the template, provided that the charter must include at least the following information:
 
-(b) The charter shall outline the scope of the CWG’s activities and other important information. A template for Working Group charters is attached to these Bylaws as Exhibit C. A Working Group may deviate from the template, provided that the charter must include at least the following information:
+    * Scope of the Working Group
+    * Anticipated Working Group end date, if any
+    * Initial chairs and contacts for the Working Group
+    * Type(s) of Members eligible to participate in the Working Group (e.g., Members, Interested Parties, and Associate Members)
+    * Membership criteria as described in section 5.3.1
+    * Criteria for ending membership for each category of participant
+    * Voting structure for the WG
+    * Summary of the work that the WG plans to accomplish
+    * Summary of major deliverables and guidelines for the Working Group
+    * means of communication to be used by the Working Group (see subsection (4) below)
+    * applicability of the IPR Policy
 
-  * Scope of the Working Group
-  * Anticipated Working Group end date, if any
-  * Initial chairs and contacts for the Working Group
-  * Type(s) of Members eligible to participate in the Working Group (e.g., Members, Interested Parties, and Associate Members)
-  * Membership criteria as described in section 5.3.1
-  * Criteria for ending membership for each category of participant
-  * Voting structure for the WG
-  * Summary of the work that the WG plans to accomplish
-  * Summary of major deliverables and guidelines for the Working Group
-  * means of communication to be used by the Working Group (see subsection (d) below)
-  * applicability of the IPR Policy
+ 3. After the charter is approved, the CWG MAY elect a new Chair and Vice Chair elected by CWG members following the procedures of Bylaws Section 4.1 as closely as possible. The initial term for CWG officers shall expire on November 30 of the next even-numbered year after the CWG is established in order to be synchronized with the terms of Forum officers. Proposing and voting on all CWG Ballots by CWG members shall follow the procedures stated in Bylaws Sec. 2.3 and 2.4 with the exception of not requiring a proposer and endorsers. The CWG Chair will send an invitation to the Public Mail List for an initial CWG meeting and will solicit eligible Members, Associate Members and Interested Parties (as specified in the charter) with expertise and interest in the CWG’s subject matter to participate in the CWG. In order to participate in a Working Group, a party must have agreed to the IPR Policy Agreement and formally declared participation. Each CWG Chair shall be responsible for ensuring that all parties attending the respective CWG meetings have signed the IPR Policy Agreement and have formally declared their participation in the CWG via the mechanism designated by the Forum prior to attending.
 
-(c)  After the charter is approved, the CWG MAY elect a new Chair and Vice Chair elected by CWG members following the procedures of Bylaws Section 4.1 as closely as possible. The initial term for CWG officers shall expire on November 30 of the next even-numbered year after the CWG is established in order to be synchronized with the terms of Forum officers. Proposing and voting on all CWG Ballots by CWG members shall follow the procedures stated in Bylaws Sec. 2.3 and 2.4 with the exception of not requiring a proposer and endorsers. The CWG Chair will send an invitation to the Public Mail List for an initial CWG meeting and will solicit eligible Members, Associate Members and Interested Parties (as specified in the charter) with expertise and interest in the CWG’s subject matter to participate in the CWG. In order to participate in a Working Group, a party must have agreed to the IPR Policy Agreement and formally declared participation. Each CWG Chair shall be responsible for ensuring that all parties attending the respective CWG meetings have signed the IPR Policy Agreement and have formally declared their participation in the CWG via the mechanism designated by the Forum prior to attending.
+ 4. Each CWG may establish its own means for their communications, as provided in the charter, but such means should be managed in the same fashion as the Public Mail List and employed by the CWG with a similar level of transparency as appropriate to their nature with public archives for written methods of communication. CWGs may meet by teleconference or have face-to-face meetings as provided in the charter, but the Forum shall not be responsible for the expenses of any such teleconferences or meetings.
 
-(d)  Each CWG may establish its own means for their communications, as provided in the charter, but such means should be managed in the same fashion as the Public Mail List and employed by the CWG with a similar level of transparency as appropriate to their nature with public archives for written methods of communication. CWGs may meet by teleconference or have face-to-face meetings as provided in the charter, but the Forum shall not be responsible for the expenses of any such teleconferences or meetings.
-
-(e)	CWGs may establish any number of subcommittees within its own Working Group to address any of such CWG’s business (each, a “CWG Subcommittee”). A CWG-created Subcommittee needs to be approved by the CWG itself according to the approval process set forth in the CWG charter, but approval of the Forum is not necessary.
+ 5.	CWGs may establish any number of subcommittees within its own Working Group to address any of such CWG’s business (each, a “CWG Subcommittee”). A CWG-created Subcommittee needs to be approved by the CWG itself according to the approval process set forth in the CWG charter, but approval of the Forum is not necessary.
 
 ### 5.3.2 Rechartering, Extending and Dissolving Working Groups
 
-    (a)  Rechartering: CWGs may only amend their charters via the ballot procedure described in Section
+ 1. Rechartering: CWGs may only amend their charters via the ballot procedure described in Section
 2.3 above. After Forum approval of an amended CWG charter, the new charter takes effect immediately, or as specified in the amending ballot. This amendment process does not itself require an Interim WG Chair to be appointed, unless specified in the amending ballot.
 
-    (b)  Extending: Unless extended, a CWG will expire on the date specified in its charter, if any. To extend a CWG charter, the Forum Chair may, at the Forum Chair’s discretion, conduct a fourteen (14) day poll (yes/no regarding the extension) of the Forum, initiated through the Public List. If no objection is made to the extension during the poll, the extension is deemed approved. If an objection (“no” vote) is made during the poll, an extension shall be determined using the ballot procedure described in Section 2.3 above. This provision may only be used to continue the work of the CWG under the existing charter and scope.
+ 2. Extending: Unless extended, a CWG will expire on the date specified in its charter, if any. To extend a CWG charter, the Forum Chair may, at the Forum Chair’s discretion, conduct a fourteen (14) day poll (yes/no regarding the extension) of the Forum, initiated through the Public List. If no objection is made to the extension during the poll, the extension is deemed approved. If an objection (“no” vote) is made during the poll, an extension shall be determined using the ballot procedure described in Section 2.3 above. This provision may only be used to continue the work of the CWG under the existing charter and scope.
 
-    (c) Dissolving: The Forum can dissolve a CWG via a ballot following the Forum’s regular voting rules in Section 2.3 above. The Forum may not dissolve a CWG prior to the end date specified in its charter, if any, without such a ballot.
+ 3. Dissolving: The Forum can dissolve a CWG via a ballot following the Forum’s regular voting rules in Section 2.3 above. The Forum may not dissolve a CWG prior to the end date specified in its charter, if any, without such a ballot.
 
 ### 5.3.3 Output of Working Groups
 
-    (a) CWGs may adopt Final Guidelines and Final Maintenance Guidelines within the scope of their charters and according to the provisions (including voting processes) of the CWG’s charter. All Final Guidelines and Final Maintenance Guidelines must be posted on the Public Mail List.
+ 1. CWGs may adopt Final Guidelines and Final Maintenance Guidelines within the scope of their charters and according to the provisions (including voting processes) of the CWG’s charter. All Final Guidelines and Final Maintenance Guidelines must be posted on the Public Mail List.
 
-    (b) Final Guidelines and Final Maintenance Guidelines developed by a CWG do not need to be approved by the Forum at large.
+ 2. Final Guidelines and Final Maintenance Guidelines developed by a CWG do not need to be approved by the Forum at large.
 
 ### 5.3.4 Legacy Working Groups
 
@@ -277,15 +272,13 @@ The current version of the Bylaws shall be posted to the Public Web Site. These 
 
 The Forum procedure for dealing with questions and comments sent to the Questions Mail List shall be as follows. The Chair shall appoint a Questions List Coordinator. The responsibilities of the Questions List Coordinator are:
 
-    (a) If practical, within twenty four (24) hours send an acknowledgment to the questioner indicating that the question or comment has been received and that a response will provided as soon as is practical.
+ 1. If practical, within twenty four (24) hours send an acknowledgment to the questioner indicating that the question or comment has been received and that a response will provided as soon as is practical.
 
-    (b) Coordinate discussion using the Member Mail List until consensus has been achieved. Depending on the topic of the question, the Questions List Coordinator may choose to coordinate discussion on the appropriate CWG Member Mail List.
+ 2. Coordinate discussion using the Member Mail List until consensus has been achieved. Depending on the topic of the question, the Questions List Coordinator may choose to coordinate discussion on the appropriate CWG Member Mail List.
+ 3. Post the proposed response to the Member Mail List indicating that Members have twenty four (24) hours to object.
 
-    (c) Post the proposed response to the Member Mail List indicating that Members have twenty four (24) hours to object.
-
-    (d) If no objections are received before the deadline expires, then send the response to the questioner.
-
-    (e) If consensus cannot be achieved, or one or more objections are received, then the matter should be dealt with in the next Forum Meeting or Forum Teleconference.
+ 4. If no objections are received before the deadline expires, then send the response to the questioner.
+ 5. If consensus cannot be achieved, or one or more objections are received, then the matter should be dealt with in the next Forum Meeting or Forum Teleconference.
 
 ## 6.3 Interpretation of Bylaws
 
@@ -360,35 +353,32 @@ All Member representatives are expected to behave in a collegial and professiona
 
 **I.  Conduct.**  The Forum is committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.  The Forum recognizes and appreciates that its participants have diverse languages, backgrounds, experience, and expertise, and expects that all participants will be treated with respect by all other participants.
 
-(a)  In connection with official Forum activities, all Forum participants shall:
-  * Be polite, kind, and courteous to other participants, refraining from insulting remarks on the perceived intelligence or ability of others.
-  * Treat fellow Forum participants with respect, professionalism, courtesy, and reasonableness.  
-  * Respect that people have differences of opinion, and that there is seldom unanimous agreement on a single "correct" answer.  Be willing to compromise and agree to disagree.  
+ 1. In connection with official Forum activities, all Forum participants shall:
+    * Be polite, kind, and courteous to other participants, refraining from insulting remarks on the perceived intelligence or ability of others.
+    * Treat fellow Forum participants with respect, professionalism, courtesy, and reasonableness.  
+    * Respect that people have differences of opinion, and that there is seldom unanimous agreement on a single "correct" answer.  Be willing to compromise and agree to disagree.  
 
-(b)  In connection with official Forum activities, all Forum participants shall refrain from conduct such as:  
-  * Threatening violence towards anyone.  
-  * Discriminating against anyone on the basis of personal characteristics or group membership.
-  * Harassing or bullying anyone verbally, physically, or sexually.
-  * Launching barbs at others.  [Note:  a "barb" is an obviously or openly unpleasant or carping remark.]
-  * Touching another person in a physically inappropriate way. 
-  * Deliberately intimidating or stalking another person (in-person, online, or by other means).
-  * Inappropriately disrupting or impeding official Forum events, including meetings, talks, and presentations.  For purposes of this Code, "inappropriate disruption" would include aggressive, violent, and abusive conduct that prevents an official Forum event from occurring or proceeding.
-  * Spamming, trolling, flaming, baiting, and other similar behavior inappropriately directed towards an individual.
-  * Advocating for, or encouraging, any of the above behavior.
+ 2. In connection with official Forum activities, all Forum participants shall refrain from conduct such as:  
+    * Threatening violence towards anyone.  
+    * Discriminating against anyone on the basis of personal characteristics or group membership.
+    * Harassing or bullying anyone verbally, physically, or sexually.
+    * Launching barbs at others.  [Note:  a "barb" is an obviously or openly unpleasant or carping remark.]
+    * Touching another person in a physically inappropriate way. 
+    * Deliberately intimidating or stalking another person (in-person, online, or by other means).
+    * Inappropriately disrupting or impeding official Forum events, including meetings, talks, and presentations.  For purposes of this Code, "inappropriate disruption" would include aggressive, violent, and abusive conduct that prevents an official Forum event from occurring or proceeding.
+    * Spamming, trolling, flaming, baiting, and other similar behavior inappropriately directed towards an individual.
+    * Advocating for, or encouraging, any of the above behavior.
 
-(c)  All Forum participants should promote the rules of this Code and take action to bring discussions back into compliance with the Code whenever violations are observed.
+ 3. All Forum participants should promote the rules of this Code and take action to bring discussions back into compliance with the Code whenever violations are observed.
 
-(d)  Forum participants should stick to ideological, conceptual discussions and avoid engaging in offensive or sensitive personal discussions, particularly if they're off-topic; such personal discussions can lead to unnecessary arguments, hurt feelings, and damaged trust. 
+ 4. Forum participants should stick to ideological, conceptual discussions and avoid engaging in offensive or sensitive personal discussions, particularly if they're off-topic; such personal discussions can lead to unnecessary arguments, hurt feelings, and damaged trust. 
 
 **II.  Moderation.**  These are the policies for upholding the Code.
+ 1. Resist the urge to be defensive.  Remember that it's your responsibility to clearly communicate your message to your fellow participants. Everyone wants to get along and we are all in the Forum first and foremost because we want to talk about standards and everything that involves. Other participants will be eager to assume good intent and forgive as long as you have earned their trust.
+ 2. Participants should inform the Chair, Vice Chair, and/or a Working Group Chair immediately if they feel they have been, or are being, harassed or made uncomfortable by a Forum member. Intimidation, personal attacks, and retaliation of any kind will not be tolerated. 
 
-(a) Resist the urge to be defensive.  Remember that it's your responsibility to clearly communicate your message to your fellow participants. Everyone wants to get along and we are all in the Forum first and foremost because we want to talk about standards and everything that involves. Other participants will be eager to assume good intent and forgive as long as you have earned their trust.
-
-(b)  Participants should inform the Chair, Vice Chair, and/or a Working Group Chair immediately if they feel they have been, or are being, harassed or made uncomfortable by a Forum member. Intimidation, personal attacks, and retaliation of any kind will not be tolerated. 
-
-(c)  Any Forum participant may report, in good faith, a perceived violation of the Code to the Forum Chair or Vice Chair, or to a Working Group Chair (each, a "Code Liaison").  One or more Code Liaison(s) will work with the reported Forum participant to determine whether a violation of the Code has occurred and, if so, how to resolve it.  Resolution may also include appropriate executives from the Forum participant's Member company, as appropriate.  If the reported Forum participant, Member executives, and the Code Liaison(s) are unable to resolve the issue, any of the foregoing may request the assistance of a reasonably acceptable independent third party (such as an Interested Party or WebTrust) to assist with the resolution. 
-
-(d)  Members agree to take appropriate action in the event any of their Member representatives violate the Code.  Such action could include warning, reprimanding, suspending, removing or replacing the Member representative who has violated the Code, depending on the severity of the violation.  Depending on the number and severity of violations, the Forum may impose consequences such as excluding a Member representative from certain meetings, removing a Member representative from a mailing list, and suspending a Member representative from certain Forum activities.  
+ 3. Any Forum participant may report, in good faith, a perceived violation of the Code to the Forum Chair or Vice Chair, or to a Working Group Chair (each, a "Code Liaison").  One or more Code Liaison(s) will work with the reported Forum participant to determine whether a violation of the Code has occurred and, if so, how to resolve it.  Resolution may also include appropriate executives from the Forum participant's Member company, as appropriate.  If the reported Forum participant, Member executives, and the Code Liaison(s) are unable to resolve the issue, any of the foregoing may request the assistance of a reasonably acceptable independent third party (such as an Interested Party or WebTrust) to assist with the resolution. 
+ 4. Members agree to take appropriate action in the event any of their Member representatives violate the Code.  Such action could include warning, reprimanding, suspending, removing or replacing the Member representative who has violated the Code, depending on the severity of the violation.  Depending on the number and severity of violations, the Forum may impose consequences such as excluding a Member representative from certain meetings, removing a Member representative from a mailing list, and suspending a Member representative from certain Forum activities.  
 
 Adapted from the WHATWG Code of Conduct [https://wiki.whatwg.org/wiki/Code_of_Conduct], the W3C Code of Ethics and Professional Conduct [https://www.w3c.org/Consortium/cepc/], and the Citizen Code of Conduct [citizencodeofconduct.org].
 
