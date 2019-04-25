@@ -211,7 +211,7 @@ These activities should be followed by any Chartered Working Group. Working Grou
 
 ### 5.3.1 Formation of Chartered Working Groups
 
- 1. Members who desire to form a new “Chartered” Working Group (CWG) shall propose a charter by ballot pursuant to Section 2.3 above. A CWG shall:
+ 1. (Referred to as Section 5.3.1(a) in the IPR Policy) Members who desire to form a new “Chartered” Working Group (CWG) shall propose a charter by ballot pursuant to Section 2.3 above. A CWG shall:
     * Include Certificate (or Root Certificate) Issuer participants or Certificate Consumer participants, and should typically include both.
     * Allow for the participation of Interested Parties and Associate Members.
    
@@ -240,7 +240,7 @@ These activities should be followed by any Chartered Working Group. Working Grou
 
  4. Each CWG may establish its own means for their communications, as provided in the charter, but such means should be managed in the same fashion as the Public Mail List and employed by the CWG with a similar level of transparency as appropriate to their nature with public archives for written methods of communication. CWGs may meet by teleconference or have face-to-face meetings as provided in the charter, but the Forum shall not be responsible for the expenses of any such teleconferences or meetings.
 
- 5.	CWGs may establish any number of subcommittees within its own Working Group to address any of such CWG’s business (each, a “CWG Subcommittee”). A CWG-created Subcommittee needs to be approved by the CWG itself according to the approval process set forth in the CWG charter, but approval of the Forum is not necessary.
+ 5.	(Referred to as Section 5.3.1(e) in the IPR Policy) CWGs may establish any number of subcommittees within its own Working Group to address any of such CWG’s business (each, a “CWG Subcommittee”). A CWG-created Subcommittee needs to be approved by the CWG itself according to the approval process set forth in the CWG charter, but approval of the Forum is not necessary.
 
 ### 5.3.2 Rechartering, Extending and Dissolving Working Groups
 
