@@ -402,43 +402,43 @@ Adapted from the WHATWG Code of Conduct [https://wiki.whatwg.org/wiki/Code_of_Co
 ## CAB Forum Charter Template
 [insert name] Working Group Charter
 
-The mission of the [insert name] Working Group is to:
-[Insert short summary of what WG will do.]
-End date: (e.g., December 31, 2019)
+The **mission** of the [insert name] Working Group is to:
+[Insert **short summary** of what WG will do.]
+**End date**: (e.g., December 31, 2019)
 
-Initial Chair(s):
+**Initial Chair(s)**:
 
-Initial Team Contact(s):
+**Initial Team Contact(s)**:
 
-Meeting Schedule: (e.g., conference call 1st Thursday of the month, F2F once per year)
+**Meeting Schedule**: (e.g., conference call 1st Thursday of the month, F2F once per year)
 
-Type(s) of Members Eligible to Participate: (e.g., CAs and Browsers)
+**Type(s) of Members Eligible to Participate**: (e.g., CAs and Browsers)
 
-Voting Structure for WG: (e.g., 2/3 of CAs, ½ of Browsers)
+**Voting Structure for WG**: (e.g., 2/3 of CAs, ½ of Browsers)
 
-1. Working Group Scope
+1. **Working Group Scope**
 
-1.1 Summary of Working Group Goals and Objectives
+   1.1 **Summary of Working Group Goals and Objectives**
 [Describe goals and objectives of WG. What is the purpose of the WG, what do you hope to accomplish, why is this group important/necessary? Will this group leverage any existing work or collaborate with other groups?]
 
-1.2 Success Criteria
-* Prepare a ballot to create guidelines for the [insert name] Working Group.
-*  order to advance to Final Guidelines or Final Maintenance Guidelines, each specification is expected to have [e.g., at least x independent implementations of each feature defined in the specification].
-* Work with Forum to have guidelines for the [insert name] Working Group be approved and adopted.
+   1.2 **Success Criteria**
+     * Prepare a ballot to create guidelines for the [insert name] Working Group.
+     *  order to advance to Final Guidelines or Final Maintenance Guidelines, each specification is expected to have [e.g., at least x independent implementations of each feature defined in the specification].
+     * Work with Forum to have guidelines for the [insert name] Working Group be approved and adopted.
 
-1.3 Minimum Requirements
+   1.3 **Minimum Requirements**
 Each WG must meet the following minimum requirements:
-* Comply with all applicable laws, rules and regulations.
-* Comply with the CAB Forum IPR Policy and Bylaws.
-* Follow RFC 3647 and other technical requirements regarding the preparation of minutes and the use of public mailing lists.
-* [Any other requirements applicable to this specific WG?]
+     * Comply with all applicable laws, rules and regulations.
+     * Comply with the CAB Forum IPR Policy and Bylaws.
+     * Follow RFC 3647 and other technical requirements regarding the preparation of minutes and the use of public mailing lists.
+     * [Any other requirements applicable to this specific WG?]
 
-1.4 Out of Scope
+   1.4 **Out of Scope**
 [What is out of scope for this WG, what are items that this WG will not work on? For example, solving world hunger, fixing global warming, boiling the ocean]
 
-2. Summary of Work
+2. **Summary of Work**
 
-2.1 Guidelines
+   2.1 **Guidelines**
 The Working Group will deliver the following:
 [Draft of guidelines for WG review]
 [Draft of ballot for approval of guidelines]
@@ -447,21 +447,21 @@ The Working Group will deliver the following:
 [describe]
 [describe]
 
-2.2 Other Deliverables
+   2.2 **Other Deliverables**
 The Working Group may work on related deliverables and non-normative documents, such as:
 [describe]
 [describe]
 
-2.3 Milestones
+   2.3 **Milestones**
 The initial milestones for the [Final or Final Maintenance] Guidelines are as follows. Such milestones may be modified or replaced by consensus of the Working Group members.
 [developmental milestone 1]
 [developmental milestone 2]
 [developmental milestone 3]
 [developmental milestone 4]
 
-3. Membership
+3. **Membership**
 
-3.1 Membership Criteria
+   3.1 **Membership Criteria**
 This Working Group shall have the following categories of membership:
 [specify]
 
@@ -472,9 +472,9 @@ Applicants must meet the following criteria:
 
 (a) The Working Group shall consist of two classes of voting members, the Certificate Issuers and the Certificate Consumers meeting the following criteria:
 
-(1) Certificate Issuer: [specify]
+ 1. Certificate Issuer: [specify]
  
-(2) Certificate Consumer: [specify]
+ 2. Certificate Consumer: [specify]
 
 (b) Applicants must supply the following information:
 •	[specify]
@@ -487,15 +487,15 @@ Applicants that qualify as Certificate Issuers must supply the following additio
 
 The Working Group shall include Interested Parties and Associate Members as defined in the Bylaws.
 
-3.2 Ending Membership
+   3.2 **Ending Membership**
 [Proposed text. New Chartered Working Groups may amend accordingly].
 
 Members may resign from the Working Group at any time. Resignation does not prevent a Member from potentially having continuing obligations, under the Forum's IPR Policy or any other document.
 
-(a)Certificate Consumer:
+(a) Certificate Consumer:
 [specify]
 
-(b))Certificate Issuer or Root Certificate Issuer:
+(b) Certificate Issuer or Root Certificate Issuer:
 [specify]
 
 Any Member who believes any of the above circumstances is true of any other Member, that Member may report it on the Working Group Public Mail List. The Chair will then investigate, including asking the reported Member for an explanation or appropriate documentation. If evidence of continued qualification for membership is not forthcoming from the reported Member within five (5) working days, the Chair will announce that such Member is suspended, such announcement to include the clause(s) from the above list under which the suspension has been made.
@@ -506,41 +506,40 @@ While suspended, a Member may participate in this Working Group and Forum Meetin
 
 Votes cast before a Member's suspension is announced will stand.
 
-3.3 Application Process
+   3.3 **Application Process**
 Applicants shall supply information and follow a process to become members.
 [specify]
 
-4. Dependencies and Liaisons
+4. **Dependencies and Liaisons**
 
-4.1 CAB Forum Groups
+   4.1 **CAB Forum Groups**
 This Working Group will coordinate with, and seek guidance from, the following other CAB Forum Working Groups (if applicable):
 [specify]
 [specify]
 
-4.2 External Groups
-
+   4.2 **External Groups**
 This Working Group will coordinate with, and seek guidance from, the following outside organizations:
 [IETF?]
 [W3C?]
 [specify]
 
-5. Participation
+5. **Participation**
 
 To be successful, the [insert name] Working Group is expected to have [insert #] or more active participants for its duration. The Working Group participants are expected to contribute an appropriate number of hours per week towards the Working Group’s activities.
 
-6. Communication
+6. **Communication**
 
 Most Working Group teleconferences will focus on discussion of particular specifications, and will be conducted on an as-needed basis. This group conducts its work primarily on [insert name of mailing list], which is available [to members only/to the public.] Information about the group will be available via the [CAB Forum website].
 
-7. Decision Process
+7. **Decision Process**
 
 This Working Group will seek to make decisions when there is consensus and with due process. The expectation is that, typically, the Chair or other participant makes an initial proposal, which is then refined in discussion with the Working Group participants, and consensus emerges with little formal voting being required. However, if a decision is necessary for timely progress, but consensus is not achieved after careful consideration of the range of views presented, the Chair(s) should put the question out for voting within the WG (using email and/or web-based survey techniques) according to Section 2 (Forum Membership and Voting) of the Forum Bylaws and record a decision, along with any objections. The matter should then be considered resolved unless and until new information becomes available.
 
-8. IPR Policy
+8. **IPR Policy**
 
 This Working Group is subject to the CAB Forum Intellectual Rights Policy v.1.3 Effective July 3, 2018 (the “IPR Policy”).
 To promote the widest adoption of the CAB Forum Guidelines, CAB Forum seeks to issue Final Guidelines and Final Maintenance Guidelines that can be implemented, according to the IPR Policy, on a CAB Forum Royalty-Free License basis. For information about exclusion of Essential Claims, see Section 4 of the IPR Policy.
 
-9. About this Charter
+9. **About this Charter**
 
 This charter for the [insert name] Working Group has been created according to Section 5.3.1 of the Bylaws of the CAB Forum. In the event of a conflict between this charter and any provision in either the Bylaws or the IPR Policy, the provision in the Bylaws or IPR Policy shall take precedence.
