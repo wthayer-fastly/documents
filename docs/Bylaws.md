@@ -44,7 +44,7 @@ An antitrust compliance statement shall be read at the start of all Forum Meetin
 
 ## 2.1 Qualifying for Forum Membership
 
-CWG Members are automatically granted Forum Membership.
+Chartered Working Group (CWG) Members are automatically granted Forum Membership.
 
 Categories of Forum Membership are defined as follows:
 
@@ -54,9 +54,9 @@ Categories of Forum Membership are defined as follows:
 
 * Certificate Consumer: The member organization meets the requirements for membership as a Certificate Consumer in one or more CWGs.
 
-* Associate Member: As defined in section 3.1
+* Associate Member: As defined in Section 3.1
 
-* Interested Party: As defined in section 3.2
+* Interested Party: As defined in Section 3.2
 
 Members that qualify under more than one category of Forum Membership MAY choose their membership category.
 
