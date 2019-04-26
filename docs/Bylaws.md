@@ -219,9 +219,10 @@ These activities should be followed by any Chartered Working Group. Working Grou
     
     * Audit requirements, including acceptable audit schemes, duration and age of the report, and auditor qualifications.
     
-    * Requirements for the Applicant to be actively issuing certificates or creating a software product that relies upon certificates
+    * Requirements for the Applicant to be actively issuing certificates or creating a software product that relies upon certificates.
     
-    * Requirements that certificates are treated as valid by a CWG Certificate Consumer, or for the software produced by the Certificate Consumer to be intended for use by the general public
+    * Requirements that certificates are treated as valid by a CWG Certificate Consumer, or for the software produced by the Certificate Consumer to be intended for use by the general public.
+    
  2. The charter shall outline the scope of the CWG’s activities and other important information. A template for Working Group charters is attached to these Bylaws as Exhibit C. A Working Group may deviate from the template, provided that the charter must include at least the following information:
 
     * Scope of the Working Group
@@ -233,8 +234,8 @@ These activities should be followed by any Chartered Working Group. Working Grou
     * Voting structure for the WG
     * Summary of the work that the WG plans to accomplish
     * Summary of major deliverables and guidelines for the Working Group
-    * means of communication to be used by the Working Group (see subsection (4) below)
-    * applicability of the IPR Policy
+    * Means of communication to be used by the Working Group (see subsection (4) below)
+    * Applicability of the IPR Policy
 
  3. After the charter is approved, the CWG MAY elect a new Chair and Vice Chair elected by CWG members following the procedures of Bylaws Section 4.1 as closely as possible. The initial term for CWG officers shall expire on November 30 of the next even-numbered year after the CWG is established in order to be synchronized with the terms of Forum officers. Proposing and voting on all CWG Ballots by CWG members shall follow the procedures stated in Bylaws Sec. 2.3 and 2.4 with the exception of not requiring a proposer and endorsers. The CWG Chair will send an invitation to the Public Mail List for an initial CWG meeting and will solicit eligible Members, Associate Members and Interested Parties (as specified in the charter) with expertise and interest in the CWG’s subject matter to participate in the CWG. In order to participate in a Working Group, a party must have agreed to the IPR Policy Agreement and formally declared participation. Each CWG Chair shall be responsible for ensuring that all parties attending the respective CWG meetings have signed the IPR Policy Agreement and have formally declared their participation in the CWG via the mechanism designated by the Forum prior to attending.
 
