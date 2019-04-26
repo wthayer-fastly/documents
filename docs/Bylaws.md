@@ -346,7 +346,7 @@ The Participant represents and warrants that either: (a) it has the authority to
 
 By: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-       (Signature)
+   (Signature)
 
 Print Name \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
